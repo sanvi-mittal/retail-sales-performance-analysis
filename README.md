@@ -138,7 +138,7 @@ This analysis helps identify stronger and weaker geographical markets.
 
 ### Visualization
 
-![Revenue by City](Screenshots/revenue-by-city.png)
+![Revenue by City](./revenue-by-city.png)
 
 ---
 
