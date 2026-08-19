@@ -206,7 +206,7 @@ The purpose of this analysis was to understand the distribution of customers acr
 
 ### Visualization
 
-![Customer Segment Analysis](Screenshots/customer-segment.png)
+![Customer Segment Analysis](./customer-segment.png)
 
 ---
 
