@@ -122,7 +122,7 @@ The monthly trend visualization makes it easier to identify changes in sales per
 
 ### Visualization
 
-![Monthly Revenue Trend](Screenshots/monthly-revenue.png)
+![Monthly Revenue Trend](./monthly-revenue.png)
 
 ---
 
