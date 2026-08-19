@@ -222,7 +222,7 @@ This provides a comparison of sales performance across the available sales repre
 
 ### Visualization
 
-![Sales Executive Performance](Screenshots/sales-executive.png)
+![Sales Executive Performance](./sales-executive.png)
 
 ---
 
@@ -247,7 +247,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Sales Executive Performance](./sales-executive.png)
+![Retail Sales Dashboard](./dashboard.png)
 
 ---
 
