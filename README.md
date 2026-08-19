@@ -154,7 +154,7 @@ The comparison helps identify the strongest-performing brands within the dataset
 
 ### Visualization
 
-![Revenue by Brand](Screenshots/revenue-by-brand.png)
+![Revenue by Brand](./revenue-by-brand.png)
 
 ---
 
