@@ -170,7 +170,7 @@ This analysis helps identify high-performing products and understand the distrib
 
 ### Visualization
 
-![Revenue by Product](Screenshots/revenue-by-product.png)
+![Revenue by Product](./revenue-by-product.png)
 
 ---
 
