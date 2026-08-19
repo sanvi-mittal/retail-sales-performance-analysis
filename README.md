@@ -247,7 +247,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Retail Sales Dashboard](./dashboard.png)
+![Sales Executive Performance](./sales-executive.png)
 
 ---
 
