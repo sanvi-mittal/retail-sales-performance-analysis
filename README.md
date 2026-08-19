@@ -247,7 +247,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Retail Sales Dashboard](Screenshots/dashboard.png)
+![Retail Sales Dashboard](./dashboard.png)
 
 ---
 
