@@ -186,7 +186,7 @@ The analysis provides an overview of the payment behaviour represented in the da
 
 ### Visualization
 
-![Revenue by Payment Method](Screenshots/revenue-by-payment.png)
+![Revenue by Payment Method](./revenue-by-payment.png)
 
 ---
 
